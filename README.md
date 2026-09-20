@@ -216,4 +216,4 @@ Unity Web Player is offered as a **full free version** with all features and upd
 Upgrade your browsing experience today! Download Unity Web Player for free and immerse yourself in the world of 3D gaming!
 
 ---
-**Last updated:** 2026-09-20 15:48:21 UTC
+**Last updated:** 2026-09-20 18:36:06 UTC
